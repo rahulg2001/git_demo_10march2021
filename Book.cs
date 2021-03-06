@@ -8,6 +8,7 @@ namespace Linq
 {
     public  class Book
     {
+        //Properties
         public string ISBN { get; set; }
         public string Title { get; set; }
         public float Price { get; set; }
